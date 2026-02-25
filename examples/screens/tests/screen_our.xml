@@ -1,0 +1,3 @@
+<component>
+	<view extends="circle_button" />
+</component>
